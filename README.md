@@ -34,7 +34,6 @@ The table below summarizes the operational reliability across three settings:
 
 ## 📂 Repository Structure
 
-
 ├── data/
 │   ├── scenarios_30.csv          # The 30 SDN security scenarios used for evaluation
 │   └── ground_truth.csv          # Expected operational profiles for each scenario
@@ -48,5 +47,7 @@ The table below summarizes the operational reliability across three settings:
 │   └── final_metrics.csv         # Aggregated metrics for the paper
 ├── figures/                      # Generated plots for the manuscript
 ├── notebooks/                    # Jupyter/Colab notebooks for step-by-step reproduction
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21807566.svg)](https://doi.org/10.5281/zenodo.21807566)
 ├── requirements.txt              # Python dependencies
 └── README.md
