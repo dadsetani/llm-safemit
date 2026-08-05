@@ -1,0 +1,8 @@
+Metric,Unconstrained,Constrained,Constrained + validator
+Parse success,76.67,100.0,100.0
+Valid action,86.67,100.0,100.0
+Valid scope,86.67,100.0,100.0
+Specific target,100.0,93.33,100.0
+Acceptable action,70.0,100.0,100.0
+Policy compliant,70.0,100.0,100.0
+Operationally good,63.33,93.33,100.0
