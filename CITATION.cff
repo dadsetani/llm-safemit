@@ -2,10 +2,13 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "LLM-SafeMit: Verifying Bounded LLM-Assisted Mitigation Decisions in SDN"
 version: 1.1.0
+doi: 10.5281/zenodo.21807565
 date-released: 2026-08-13
 authors:
   - family-names: "Dadsetani"
-    given-names: "First Author"
+    given-names: "Mahdi"
+  - family-names: "Author2"
+    given-names: "Name"
 repository-code: "https://github.com/dadsetani/llm-safemit"
 license: MIT
 keywords:
@@ -13,3 +16,4 @@ keywords:
   - LLM
   - Network Security
   - Reproducibility
+  - Latency Analysis
